@@ -85,7 +85,6 @@ Using **time-frequency features**, this model transforms raw heart audio signals
    - `N Analysis.ipynb`
    - Test using `.wav` files from the `MERGED` folder.
 
-> ⚠️ Use publicly available datasets such as the [PhysioNet Heart Sound Dataset](https://physionet.org/content/heart-sound/1.0.0/) for larger-scale training.
 
 ---
 
